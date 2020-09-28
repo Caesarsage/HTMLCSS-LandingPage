@@ -282,11 +282,7 @@ footer:after{
 }
 .lists {
   flex: 0 0 75%;
-  /* padding-right: 1.875px;
-  padding-left: 28.125px;
-  padding-top: 40px;
-  padding-bottom: 40px; */
-  padding: 40px 1.875px 40px 28.125px;
+  padding: 40px 15px;
 }
 
 .link-header{
